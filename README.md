@@ -15,9 +15,9 @@ The notebook includes the following sections:
 To run the notebook, you can open it in Google Colab by clicking the "Open in Colab" badge above. Alternatively, you can clone the repository and run the notebook locally if you have Jupyter installed.
 
 <h1><b>Requirements</b></h1>
-Python 3.x
-Jupyter Notebook
-TensorFlow or PyTorch (depending on the implementation in the notebook)
-NumPy
-Matplotlib
+1.Python 3.x<br>
+2.Jupyter Notebook<br>
+3.TensorFlow or PyTorch (depending on the implementation in the notebook)<br>
+4.NumPy<br>
+5.Matplotlib<br>
 
