@@ -4,13 +4,13 @@
 This repository contains a Jupyter notebook for training and evaluating a neural network on the Fashion MNIST dataset. The Fashion MNIST dataset is a collection of 70,000 grayscale images of 10 different types of clothing items, used as a drop-in replacement for the original MNIST dataset.
 
 <h1><b>Overview</b></h1>
-The notebook includes the following sections:
+The notebook includes the following sections:<br>
 
-<b>Data Loading and Preprocessing:</b> Loading the dataset and normalizing the pixel values.
-<b>Model Building:</b> Constructing a neural network using popular deep learning frameworks.
-<b>Training: </b>Training the neural network on the training dataset.
-<b>Evaluation:</b> Assessing the performance of the model on the test dataset.
-<b>Visualization:</b> Visualizing the training process and the results.
+<b>Data Loading and Preprocessing:</b> Loading the dataset and normalizing the pixel values.<br>
+<b>Model Building:</b> Constructing a neural network using popular deep learning frameworks.<br>
+<b>Training: </b>Training the neural network on the training dataset.<br>
+<b>Evaluation:</b> Assessing the performance of the model on the test dataset.<br>
+<b>Visualization:</b> Visualizing the training process and the results.<br>
 <h1><b>Getting Started</b></h1>
 To run the notebook, you can open it in Google Colab by clicking the "Open in Colab" badge above. Alternatively, you can clone the repository and run the notebook locally if you have Jupyter installed.
 
